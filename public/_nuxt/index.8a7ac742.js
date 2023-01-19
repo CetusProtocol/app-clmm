@@ -1,0 +1,1 @@
+import{a,b as c,o as _,e as r,l as t,m as e,B as p,fq as i,y as o}from"./entry.bdee8802.js";const u=a({setup(){console.log("this is test")}});function l(d,f,m,x,k,B){const n=p,s=i;return _(),r("div",null,[t(n,{type:"primary"},{default:e(()=>[o("test")]),_:1}),t(s,{to:"/about"},{default:e(()=>[o("link")]),_:1})])}const b=c(u,[["render",l]]);export{b as default};
