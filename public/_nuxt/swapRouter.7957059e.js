@@ -1,1 +1,0 @@
-import{a1 as e}from"./entry.f0231e12.js";import{a}from"./pool.a43a0d26.js";const u=e("swapRouter",{state:()=>({swapRouterContract:{},isInitRouter:!0}),actions:{initSwapRouter(t,r,o){this.swapRouterContract=a(t),this.swapRouterContract.initSwapRouter(r,o),this.isInitRouter=!1}}});export{u};
