@@ -1,1 +1,0 @@
-import{D as e}from"./decimal.0e8aa3f1.js";const i=-443636;function f(t,r){const n=s(t),o=(n-i)%r;return o>r/2?n-o+r:n-o}const c=new e("1.0001");function s(t){return t.log(c).toDP(0,e.ROUND_HALF_UP).toNumber()}function m(t){return c.pow(t)}export{f as g,m as t};
